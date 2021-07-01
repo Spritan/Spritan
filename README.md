@@ -1,4 +1,4 @@
-### Hi there, I'm Proyash - aka [Spritan][https://spritan.github.io/Portfolio-website/] 👋
+### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> 👋
 
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
 
