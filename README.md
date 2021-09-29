@@ -19,11 +19,11 @@
 
 ## ? Github Status
 
-[![Spritan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spritan&theme=dark)](https://github.com/Spritan/github-readme-activity-graph)
+[![Spritan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spritan&theme=xcode)](https://github.com/Spritan/github-readme-activity-graph)
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 </p>
 
