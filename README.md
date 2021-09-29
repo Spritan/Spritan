@@ -1,4 +1,4 @@
-### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> ?‘‹
+### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a>
 
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
 
@@ -17,7 +17,7 @@
 - 2021 Goals: Contribute more to Open Source projects delve more into ML
 - Fun fact: I love to draw
 
-## ? Github Status
+## Github Status
 
 [![Spritan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spritan&theme=xcode)](https://github.com/Spritan/github-readme-activity-graph)
 
@@ -27,7 +27,7 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 </p>
 
-## Technologies âš¡
+## Technologies
 
 ### Languages :
 
