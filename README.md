@@ -1,21 +1,36 @@
-### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> ğŸ‘‹
+### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> ?‘‹
 
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
 
-- ğŸ‘¨â€ğŸ’» An Open source and coding enthusiast
-- ğŸ’» Interested in Competitive Coding, Web Dev and Cloud Computing 
-- ğŸ“ Pursuing B.Tech from Assam Engineering College 
-- ğŸ–¥ Passionate about building and developing new things
-- ğŸŒ± Iâ€™m currently learning everything ğŸ¤£
-- ğŸ‘¯ Iâ€™m looking to collaborate with other content creators
-- ğŸ¥… 2021 Goals: Contribute more to Open Source projects
+![age](https://img.shields.io/badge/age-19-blue)
+![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
+![focus](https://img.shields.io/badge/focus-ML-brightgreen)
+![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
+![living](https://img.shields.io/badge/living-Assam-3c9)
+
+- ?‘¨â€ğŸ’» An Open source and coding enthusiast
+- ?’» Interested in Competitive Coding, Web Dev and Cloud Computing 
+- ?“ Pursuing B.Tech from Assam Engineering College 
+- ?–¥ Passionate about building and developing new things
+- ?Œ± Iâ€™m currently learning everything ?¤£
+- ?‘¯ Iâ€™m looking to collaborate with other content creators
+- ?¥? 2021 Goals: Contribute more to Open Source projects
 - âš¡ Fun fact: I love to draw
+
+## ? Github Status
 
 [![Spritan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spritan&theme=xcode)](https://github.com/Spritan/github-readme-activity-graph)
 
-## Technologies âš¡ 
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=tokyonight" />
+</p>
+
+## Technologies âš¡
 
 ### Languages :
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-sqare&logo=python&logoColor=darkgreen)
@@ -51,7 +66,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-
 ### AI/ML :
 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -59,19 +73,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-
-
-
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=tokyonight" />
-</p>
-
-
-
-
-
-
- 
