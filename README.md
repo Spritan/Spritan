@@ -8,14 +8,14 @@
 ![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 
-- ?ë®‚Äçüíª An Open source and coding enthusiast
-- ?íª Interested in Competitive Coding, Web Dev and Cloud Computing 
-- ?éì Pursuing B.Tech from Assam Engineering College 
-- ?ñ• Passionate about building and developing new things
-- ?å± I‚Äôm currently learning everything ?§£
-- ?ëØ I‚Äôm looking to collaborate with other content creators
-- ?•? 2021 Goals: Contribute more to Open Source projects
-- ‚ö° Fun fact: I love to draw
+- An Open source and coding enthusiast
+- Interested in Competitive Coding, Web Dev and Cloud Computing 
+- Pursuing B.Tech from Assam Engineering College 
+- Passionate about building and developing new things
+- Currently learning everything
+- Looking to collaborate with other content creators
+- 2021 Goals: Contribute more to Open Source projects delve more into ML
+- Fun fact: I love to draw
 
 ## ? Github Status
 
@@ -23,8 +23,8 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=xcode" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=xcode" />
 </p>
 
 ## Technologies ‚ö°
