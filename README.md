@@ -18,6 +18,7 @@
 - Fun fact: I love to draw
 
 ## Github Status
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Spritan&theme=onedark" alt="Spritan" /></a> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Spritan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Spritan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Spritan&theme=xcode)](https://github.com/Spritan/github-readme-activity-graph)
 
