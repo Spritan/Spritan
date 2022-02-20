@@ -3,7 +3,6 @@
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
 
 ![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![focus](https://img.shields.io/badge/focus-ML-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
