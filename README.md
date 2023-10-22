@@ -26,6 +26,7 @@
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
