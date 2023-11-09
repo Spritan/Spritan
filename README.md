@@ -26,7 +26,7 @@
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 </p>
-<img height="10%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
 
 ## Technologies
 
