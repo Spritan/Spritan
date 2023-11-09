@@ -8,7 +8,7 @@
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 
 - An Open source and coding enthusiast
-- Interested in Competitive Coding, Web Dev and Cloud Computing 
+- Interested in Competitive Coding, Web Dev and Machine Learning
 - Pursuing B.Tech from Assam Engineering College 
 - Passionate about building and developing new things
 - Currently learning everything
