@@ -22,8 +22,8 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 <p align="center">
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
-<img width="63%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
+<img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
+<img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   
 </p>
 
