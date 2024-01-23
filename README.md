@@ -18,7 +18,7 @@
 - Passionate about building and developing new things
 - Currently learning everything
 - Looking to collaborate with other content creators
-- 2021 Goals: Contribute more to Open Source projects delve more into ML
+- 2024 Goals: Contribute more to Open Source projects delve more into ML
 - Fun fact: I love to draw
 
 ## Github Status
