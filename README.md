@@ -1,4 +1,4 @@
-### Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> 👋
+## Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> 👋
 #### follow me at: <a href="https://medium.com/@Spritan">
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a> <a href="https://www.linkedin.com/in/proyashpabansarmaborah/">
