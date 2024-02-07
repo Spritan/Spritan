@@ -4,7 +4,7 @@
 </a> <a href="https://www.linkedin.com/in/proyashpabansarmaborah/">
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-#### Learn more:   <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://drive.google.com/file/d/1_ydP4HMSX8PnWu5PHGSdJAr27fI4L-UZ/view?usp=drive_link)">Resume </p>
+#### Learn more:    <a href="[https://github.com/ryo-ma/github-profile-trophy](https://drive.google.com/file/d/1_ydP4HMSX8PnWu5PHGSdJAr27fI4L-UZ/view?usp=drive_link)">Resume </a>
 
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
 
