@@ -32,7 +32,7 @@
 <img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   
 </p>
-
+<img width="100%" height="380" src="https://github-contributor-stats.vercel.app/api?username=Spritan&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
 
 ## Technologies
 
