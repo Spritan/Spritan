@@ -29,7 +29,7 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 <p align="center">
 <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
-<img width="63.5" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
+<img width="63.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
   
 </p>
 <img width="90%" height="380" src="https://github-contributor-stats.vercel.app/api?username=Spritan&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
