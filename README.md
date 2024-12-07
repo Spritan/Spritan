@@ -1,8 +1,10 @@
 ## Hi there, I'm Proyash - aka <a href="https://spritan.github.io/Portfolio-website/">Spritan</a> 👋
 ![](https://komarev.com/ghpvc/?username=Spritan)
-#### follow me at: <a href="https://medium.com/@Spritan">
+#### follow me at: 
+<a href="https://medium.com/@Spritan">
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-</a> <a href="https://www.linkedin.com/in/proyashpabansarmaborah/">
+</a> 
+<a href="https://www.linkedin.com/in/proyashpabansarmaborah/">
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 #### Learn more:    <a href="https://drive.google.com/file/d/1_ydP4HMSX8PnWu5PHGSdJAr27fI4L-UZ/view?usp=drive_link">Resume </a>
