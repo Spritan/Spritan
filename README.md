@@ -26,7 +26,7 @@
 - Fun fact: I love to draw
 
 ## Github Status
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Spritan&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
+<p align="center"> <a href="https://our-git-states.vercel.app"><img src="https://our-git-states.vercel.app/?username=Spritan&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
 
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
