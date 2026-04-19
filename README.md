@@ -26,17 +26,13 @@
 - Fun fact: I love to draw
 
 ## Github Status
-<p align="center"> <a href="https://our-git-states.vercel.app"><img src="https://our-git-states.vercel.app/?username=Spritan&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
+<p align="center"> <a href="https://our-git-states.vercel.app"><img src="https://trophy.benkou.dev/?username=Spritan&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
 
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Spritan&theme=dark" />
 <p align="center">
 <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spritan&langs_count=20&theme=dark&layout=compact" />
 <img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=Spritan&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-<img width="49%" height="380" src="https://stats.quira.sh/Spritan/languages-over-time?theme=dark" />
-<img width="49%" height="380" src="https://github-contributor-stats.vercel.app/api?username=Spritan&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" />
 </p>
 
 ## Technologies
