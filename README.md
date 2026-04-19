@@ -7,6 +7,8 @@
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a> |
 
+[![Proyash Paban Sarma Borah profile views](https://u8views.com/api/v1/github/profiles/47718224/views/day-week-month-total-count.svg)](https://u8views.com/github/Spritan)
+
 #### Learn more:    <a href="https://drive.google.com/file/d/1_ydP4HMSX8PnWu5PHGSdJAr27fI4L-UZ/view?usp=drive_link">Resume </a>
 
 ## I'm a Developer, Ui designer, Web developer, and Digital artist!!
